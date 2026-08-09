@@ -1,0 +1,13 @@
+{
+  "name": "nataum-hr-marketplace",
+  "owner": {
+    "name": "Nathalia Uribe"
+  },
+  "plugins": [
+    {
+      "name": "plugin-transicion-laboral",
+      "source": "./plugins/plugin-transicion-laboral",
+      "description": "Este plugin es tu acceso directo a herramientas que te harán más fácil tu proceso de transición laboral."
+    }
+  ]
+}
